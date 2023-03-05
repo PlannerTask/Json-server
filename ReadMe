@@ -1,0 +1,8 @@
+Rotas para o uso da Fake API
+
+Post /register - para criar um usuario
+Get /users - para vizualizar usuarios
+Post /login - para login
+Post /tasks - para criar uma task
+Get /tasks - para vizualizar uma task
+Patch /tasks/{id da task} - para atualizar uma taks
