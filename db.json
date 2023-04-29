@@ -12,6 +12,12 @@
       "password": "$2a$10$Wvne7PomSkkOcgz15rRqL.stvEq3vvOUXLHOZC1AFBfvsUul856.u",
       "name": "Teste",
       "id": 2
+    },
+    {
+      "email": "Arthur@mail.com",
+      "password": "$2a$10$lYmc3YEqCC2Zga2q8uLoHuuQTtUad61qLidfhkZizfWDNR4ZTCh/W",
+      "name": "Arthur",
+      "id": 3
     }
   ],
   "tasks": [
@@ -19,8 +25,36 @@
       "type": "to do",
       "name": "tarefa3",
       "description": "loren ipsun",
-      "userId": "2",
+      "userId": 2,
       "id": 1
+    },
+    {
+      "type": "to do",
+      "name": "tarefa",
+      "description": "loren ipsun",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "type": "to do",
+      "name": "tarefa1",
+      "description": "loren ipsun",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "type": "to do",
+      "name": "tarefa12",
+      "description": "loren ipsun",
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "type": "to do",
+      "name": "tarefa12",
+      "description": "loren ipsun",
+      "userId": 3,
+      "id": 5
     }
   ]
 }
